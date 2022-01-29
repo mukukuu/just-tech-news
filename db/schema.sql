@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS  thedb;
+
+CREATE DATABASE  thedb;
